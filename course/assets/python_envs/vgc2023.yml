@@ -1,0 +1,26 @@
+name: vgc2023
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pip
+  - matplotlib
+  - geopandas
+  - pyogrio
+  - numpy
+  - jupyter
+  - ipython
+  - python-pdal
+  - rasterio
+  - laspy
+  - scipy
+  - ipyleaflet
+  - pyproj
+  - scikit-learn
+  - tqdm
+  - shapely
+  - pip:
+    - py4dgeo
+
+
