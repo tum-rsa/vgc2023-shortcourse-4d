@@ -43,6 +43,8 @@ An extract of this dataset to be used in this course is provided by E-TRAINEE (E
 
 Download the dataset here: https://syncandshare.lrz.de/getlink/fiCv7tMhAy9keGGrncyMSQ/
 
+Additionally, a time series of annual airborne laser scanning (ALS) data of the area is provided here: http://doris.tudelft.nl/~rlindenbergh/vgc/ (courtesy of the Dutch Public Works)
+
 # References
 
 E-TRAINEE Development Team (2023): E-TRAINEE - E-learning course on Time Series Analysis in Remote Sensing for Understanding Human-Environment Interactions (Version 0.2.0) [Computer software]. https://github.com/3dgeo-heidelberg/etrainee.
