@@ -20,7 +20,7 @@ Knowledge on principles of point cloud acquisition and processing are recommende
 
 The recommended practice to set up Python for this course, is to [create a Conda environment](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf) with all required modules (packages). Instructions for installation on various platforms are available in the [Anaconda documentation](https://docs.anaconda.com/anaconda/).
 
-If you are using Conda, you may use the following procedure to create the Python environment `vgc2023` from the file vgc2023.yml in [course\assets\python_envs]():
+If you are using Conda, you may use the following procedure to create the Python environment `vgc2023` from the file vgc2023.yml in [course\assets\python_envs](https://github.com/tum-rsa/vgc2023-shortcourse-4d/tree/main/course/assets/python_envs):
 
 ```
 conda env create -f vgc2023.yml
