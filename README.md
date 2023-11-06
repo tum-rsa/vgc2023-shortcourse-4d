@@ -39,9 +39,7 @@ Help for using CloudCompare can be found in the documentation: https://www.cloud
 
 The course uses a time series of hourly point clouds acquired with permanent laser scanning (PLS) at a sandy beach by [Vos et al., 2022](#references). The full dataset is openly available on [this PANGAEA data repository](https://doi.org/10.1594/PANGAEA.934058) ([Vos et al., 2021](#references)).
 
-An extract of this dataset to be used in this course is provided by E-TRAINEE (E-TRAINEE Development Team, 2023; _publication in progress_).
-
-Download the dataset here: https://syncandshare.lrz.de/getlink/fiCv7tMhAy9keGGrncyMSQ/
+An extract of this dataset to be used in this course is provided by E-TRAINEE (E-TRAINEE Development Team, 2023): https://zenodo.org/doi/10.5281/zenodo.10003574 (module3.zip)
 
 Additionally, a time series of annual airborne laser scanning (ALS) data of the area is provided here: http://doris.tudelft.nl/~rlindenbergh/vgc/ (courtesy of the Dutch Public Works)
 
